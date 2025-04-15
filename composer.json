@@ -1,0 +1,9 @@
+{
+    "name": "task-manager",
+    "description": "API de Gerenciamento de Tarefas",
+    "require": {
+      "firebase/php-jwt": "^5.0",
+      "slim/slim": "^4.0",
+      "slim/psr7": "^1.4"
+    }
+  }
